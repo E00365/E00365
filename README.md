@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Willkommen auf meinem GitHub-Profil!
 
-<!--
-**E00365/E00365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Über mich  
+Ich bin ein vielseitiger Entwickler mit Erfahrung in C, C++, C#, Java, JavaScript und Node.js.  
+Meine Schwerpunkte liegen in der Softwareentwicklung, Systemadministration und wissenschaftlichen Anwendungen.  
 
-Here are some ideas to get you started:
+Ich arbeite derzeit an verschiedenen Projekten, darunter:  
+- **Plattformübergreifende GUI-Bibliothek** in C++ für Windows, Linux, macOS und Terminal-Umgebungen.  
+- **Trello-Clone** für das SASD-Intranet, mit einer Integration von Slack- und Google-Meet-ähnlichen Funktionen.  
+- **C++ Programmierkurs** für Anfänger, mit Themen zu Datenbankanbindung, Microcontrollern (ESP32, Arduino) und GUI-Entwicklung.  
+- **Open-Source-Projekte** zur Forschungsdatenverwaltung, Landklassifikation mit KI und Nachhaltigkeitsanwendungen.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologien & Tools  
+🔹 **Sprachen**: C, C++, C#, Java, JavaScript, TypeScript, Python, SQL  
+🔹 **Frameworks & Tools**: React, Node.js, Spring Boot, TailwindCSS, PostgreSQL, Docker  
+🔹 **Betriebssysteme**: Linux, macOS, Windows  
+🔹 **Versionierung & CI/CD**: Git, GitHub Actions, Jenkins  
+
+## 📌 Highlights  
+- Ich entwickle Open-Source-Lösungen für wissenschaftliche und umweltfreundliche Projekte.  
+- Ich bin auf der Suche nach innovativen Möglichkeiten, Software für Forschung und Entwicklung zugänglicher zu machen.  
+- Ich biete Schulungen in C++ und Softwareentwicklung an.  
+
+## Kontakt  
+📧 Erreiche mich über [GitHub Issues](https://github.com/username) oder LinkedIn (optional).  
+🌐 Mein Unternehmen: [SASD – Scientific and Software Development](https://example.com) (falls vorhanden).  
+
+🚀 **Let’s build something great together!**  
+
+ **E00356**
+
